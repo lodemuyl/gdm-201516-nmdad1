@@ -3,12 +3,12 @@
 #biografie
 ***
 Ik ben Muylaert Lode 2e jaarsstudent aan de arteveldehogeschool in de Grafische en Digitale mediatechnieken met als afstudeerrichten ProDevelopment, hierbij mijn bibliografie.
-| Schooljaar| Studies|
-| :-------- |:------------------------------------------------|
-| 2007-2011 | moderne wetenschappen (middelbaar)              |
-| 2011-2013 | Informaticabeheer (middelbaar)                  | 
-| 2013-2014 | Elektromechanica (bachelor)                     |
-| 2014-2017 | Grafische en digitale mediatechnieken (bachelor)|
+| Schooljaar | Studies                                         |
+| :--------  |:------------------------------------------------|
+| 2007-2011  | moderne wetenschappen (middelbaar)              |
+| 2011-2013  | Informaticabeheer (middelbaar)                  | 
+| 2013-2014  | Elektromechanica (bachelor)                     |
+| 2014-2017  | Grafische en digitale mediatechnieken (bachelor)|
 
 #portfolio
 ***
@@ -60,10 +60,10 @@ Ik ben Muylaert Lode 2e jaarsstudent aan de arteveldehogeschool in de Grafische 
 
 #contactinformatie
 ***
-
-|:--|--:|
-|E-mail school:| lodemuyl@student.arteveldehs.be|
-|E-mail privé: | lode.muylaert@hotmail.com |
-|GSM:			| 0496060185 |
+|                  |                                 |
+| :--------------- | ------------------------------: |
+| E-mail school:   | lodemuyl@student.arteveldehs.be |
+| E-mail privé:    | lode.muylaert@hotmail.com       |
+| GSM:		   | 0496060185                      |
 
 
